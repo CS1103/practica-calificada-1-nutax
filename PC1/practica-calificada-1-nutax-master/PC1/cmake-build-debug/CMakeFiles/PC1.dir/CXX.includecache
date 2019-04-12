@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Escritorio/practica-calificada-1-nutax-master/PC1/TwoLinkedList.cpp
+TwoLinkedList.h
+/home/utec/Escritorio/practica-calificada-1-nutax-master/PC1/TwoLinkedList.h
+string
+-
+fstream
+-
+
+/home/utec/Escritorio/practica-calificada-1-nutax-master/PC1/TwoLinkedList.h
+iostream
+-
+string
+-
+
